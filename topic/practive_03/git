@@ -1,0 +1,18 @@
+git ko phỉa là gg doc ko phải gg rice mà nó cong giúp mình nhiều thứ
+
+
+
+git innit
+git remote add origin
+
+
+git add
+git comit -m "uploadcode"
+git push
+
+
+lay code tren git
+git innit
+git remote add origin
+git fetch
+git pull origin master
